@@ -1,0 +1,6 @@
+[
+	{
+		"ssid"	: "wifiname",
+		"psk"	: "password"
+	}
+]
