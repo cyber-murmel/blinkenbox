@@ -1,0 +1,3 @@
+[submodule "neopixel"]
+	path = neopixel_spi
+	url = https://github.com/cyber-murmel/ESP-MicroPython-NeoPixel-SPI
